@@ -1,0 +1,166 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* header section styles starts here */
+.header {
+
+    width: 100%;
+    height: 120px;
+    background-color: yellowgreen;
+
+}
+
+.header h1 {
+    font-size: 2.7em;
+    font-weight: bolder;
+    color: darkgoldenrod;
+    text-align: center;
+    padding-top: 25px;
+}
+
+/* header section styles ends here */
+
+/* main content section starts here */
+
+.card-container {
+    width: 100%;
+    height: 500px;
+    border: 3px solid orange;
+    overflow: hidden;
+
+}
+
+.card1 {
+    width: 50%;
+    height: 100%;
+    background-color: coral;
+    float: left;
+    border: 2px dotted whitesmoke;
+
+
+}
+
+.card2 {
+    width: 50%;
+    height: 100%;
+    background-color: darkolivegreen;
+    float: right;
+    border: 2px dotted orangered;
+
+
+}
+
+h2 {
+    font-size: 2.8rem;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 35%;
+    color: aqua;
+}
+
+/* main content section ends here */
+
+/* footer section starts here */
+.footer {
+    width: 100%;
+    height: 80px;
+    background-color: black;
+}
+
+h3 {
+    font-size: 2.7rem;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 15px;
+    color: darkorange;
+}
+
+/* footer section ends here */
+
+
+.divider {
+    width: 100%;
+    height: 90px;
+    background-color: aliceblue;
+}
+
+.divider p {
+    font-size: 2.2rem;
+    font-weight: bolder;
+    text-align: center;
+    color: rgb(77, 255, 0);
+    padding-top: 25px;
+}
+
+/* example 2 starts from here */
+.example2 {
+    width: 100%;
+    height: 110vh;
+}
+
+/* header section */
+
+.header2 {
+    width: 100%;
+    height: 120px;
+   background-color: darkslategray;
+
+
+}
+.header2 h1{
+    font-size: 2.7em;
+    font-weight: bolder;
+    color: darkseagreen;
+    text-align: center;
+    padding-top: 25px;
+}
+
+
+/* main body section */
+
+.card-container2{
+    width: 100%;
+    height: 500px;
+    overflow: hidden;
+ 
+
+}
+.position{
+    float: left;
+}
+
+.card3{
+    width: 33.3%;
+    height: 100%;
+    background-color: brown;
+   
+}
+.card4{
+    width: 33.3%;
+    height: 100%;
+    background-color: crimson;
+   
+}
+.card5{
+    width: 33.3%;
+    height: 100%;
+    background-color: red;
+    
+}
+
+/* footer section */
+.footer2{
+    width: 100%;
+    height: 80px;
+    background-color: blueviolet;
+}
+
+.footer2 h3{
+    color: beige;
+    text-align: center;
+    padding-top: 15px;
+}
+/* example 2 ends here */
